@@ -1,0 +1,18 @@
+1. Name: Ching-Tsung(Deron) Tsai
+2. N#: ct2840
+3. NYU Email: ct2840@nyu.edu
+4. Briefly describe what you understand by the term "data science":
+
+A field that transforms real world problem into quantitative problem. And utilize data to discover useful information or solve the problem.
+
+5. Data science is a fast moving subject: what do you think is the most exciting development in this area over the last few years?  How might data science change people's lives for the better?
+
+Mature cloud computation platforms is a great tool that support more and more common heavy computations, such as deep learning. This make the improvement of the whole filed faster
+
+
+
+6. Generally speaking, what do you see as the biggest threat of data science and its associated techniques in the coming years? How might data science change people's lives for the worse?
+
+Labor replacement by machines should be a important issue since the global population and poverties are continually growing. 
+
+Data science benefits people lives by improving the efficiency of medical field. For example, machine learning technics can make the drug development process faster by identifying potential target protein of disease from a much larger pool.
